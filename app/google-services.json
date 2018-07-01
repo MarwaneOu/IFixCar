@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "318810145706",
+    "firebase_url": "https://ifixcar-aad30.firebaseio.com",
+    "project_id": "ifixcar-aad30",
+    "storage_bucket": "ifixcar-aad30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318810145706:android:7157fb16b05085a8",
+        "android_client_info": {
+          "package_name": "ifixcar.crismon.com.ifixcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318810145706-nhggikqtkj5ok81e1p5raspudnamq8p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOhq3XVrQrRXL5n_YGQolhojC3IsLnOH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318810145706:android:afb37a4ee520f6a2",
+        "android_client_info": {
+          "package_name": "ifixcar.crismon.com.therider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318810145706-nhggikqtkj5ok81e1p5raspudnamq8p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOhq3XVrQrRXL5n_YGQolhojC3IsLnOH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

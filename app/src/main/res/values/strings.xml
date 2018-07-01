@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IFix Car</string>
+    <string name="title_activity_main_map">Map</string>
+    <string name="google_direction_api">AIzaSyCOhq3XVrQrRXL5n_YGQolhojC3IsLnOH0</string>
+    <string name="title_activity_client_tracker">Map</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
