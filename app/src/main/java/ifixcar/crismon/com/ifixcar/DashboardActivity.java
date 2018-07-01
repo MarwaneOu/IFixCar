@@ -726,4 +726,9 @@ public class DashboardActivity extends AppCompatActivity
         mMap.setTrafficEnabled(false);
         mMap.getUiSettings().setZoomControlsEnabled(true);
     }
+
+    private  void  testGit()
+    {
+
+    }
 }
