@@ -729,6 +729,6 @@ public class DashboardActivity extends AppCompatActivity
 
     private  void  testGit()
     {
-
+       String test="test commit and push ";
     }
 }
